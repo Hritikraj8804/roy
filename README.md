@@ -1,2 +1,2 @@
 # roy
-some experimental project
+some project
